@@ -6,7 +6,7 @@ The was sourced in the form of around 17700 images of which 50% have vehicle in 
 ### Data:
  - The data can be found here: https://www.kaggle.com/brsdincer/vehicle-detection-image-set
  - The data is in the form of 17k images in two separate folders
- - It was converted to csv (code for that can be found in this ![file](https://github.com/SuyashVerma2311/Vehicle_Detection/blob/605d985bd5020c260c23f12b96326a458d4890c1/Vehicle_detection/vehicle_detection_without_cnn.ipynb)
+ - It was converted to csv (code for that can be found in this ![file](https://github.com/SuyashVerma2311/Vehicle_Detection/blob/5519d95b1ad1aba02124d370ec28f6987a2c1e6d/Vehicle_detection/data_preprocessing.ipynb)
  - Dataset Sample:
  ![Dataset_grid_image](https://raw.githubusercontent.com/SuyashVerma2311/Vehicle_Detection/main/informative_stuff/dataset_grid.png)
  
