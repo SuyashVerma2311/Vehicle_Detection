@@ -1,4 +1,4 @@
-# Vehicle Detection using CNN
+# Vehicle Detection
 _Project in Progress_   
 The project is meant for a Vehicle Detection system
 The was sourced in the form of around 17700 images of which 50% have vehicle in them and rest 50% don't have vehicle in them.
